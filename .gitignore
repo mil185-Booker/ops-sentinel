@@ -1,0 +1,19 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables & secrets
+.env
+
+# Local SQLite databases created by SQLiteSession
+*.db
+*.sqlite
+*.sqlite3
+
+# macOS metadata
+.DS_Store
