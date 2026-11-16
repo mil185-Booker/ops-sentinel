@@ -17,3 +17,9 @@ venv/
 
 # macOS metadata
 .DS_Store
+# Runtime SQLite session databases & local env
+*.db
+*.sqlite*
+.venv/
+.env
+__pycache__/
